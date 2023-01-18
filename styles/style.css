@@ -1,0 +1,16 @@
+.logo {
+    width: 30px;
+    height: 30px;
+}
+
+header {
+    background-color: grey;
+}
+
+header>nav {
+    display: grid;
+    justify-content: space-around;
+}
+nav>li {
+    display: inline-block;
+}
